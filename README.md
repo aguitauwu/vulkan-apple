@@ -16,6 +16,8 @@ This project renders the Bad Apple animation using raw Vulkan, without any graph
 
 The project serves as a proof of concept and foundation for Prism, a universal graphics API translation layer targeting Vulkan as its backend.
 
+https://youtu.be/XhAF26HQAiw
+
 ---
 
 ## Technical Details
