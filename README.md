@@ -66,7 +66,3 @@ Run:
 export DISPLAY=:1
 ./bad_apple
 Press any key to exit.
-Relation to Prism
-This project is the renderer prototype for Prism, a universal graphics API translation layer. The goal of Prism is to accept OpenGL, DirectX, Metal, and WebGPU calls and translate them to a common Vulkan backend via an intermediate representation. vulkan-apple validates the Vulkan backend on real mobile hardware under Termux constraints.
-License
-MIT
